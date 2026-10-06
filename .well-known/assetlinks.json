@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.smkaddawah.twa",
-        "sha256_cert_fingerprints": ["50:CD:5E:09:FB:05:C0:5E:6A:8B:A8:11:D9:BB:F4:C6:4F:55:0D:95:DF:E9:AB:77:34:52:40:9D:38:2E:EF:AF"]
+        "sha256_cert_fingerprints": ["70:E2:83:A6:B9:1A:73:B1:07:CE:11:40:64:78:72:6B:31:C6:69:C1:52:3C:3B:DC:60:8A:BC:A3:90:DF:CD:43"]
       }
     }]
